@@ -11,10 +11,32 @@ Search Features: Find function with Match Case option and highlighting of active
 Recent Files: Maintains a list of recently opened files for quick access.
 Drag-and-Drop Support: Easily open PDF files by dragging them into the application window.
 Basic File Operations: Open, Close, Print (using QPrinter), and Save As (for copying/duplicating PDFs).
+Export to: Png, Docx
 ---
 
 ## 📸 Screenshot
-<img width="957" height="645" alt="Screenshot 2025-10-20 081724" src="https://github.com/user-attachments/assets/d966180f-b62e-417b-bb22-4756ced8e567" />
+<img width="955" height="650" alt="Screenshot 2025-10-20 222726" src="https://github.com/user-attachments/assets/f2a0ea7a-70f8-458f-a4e9-b2c4f60c0229" />
+<img width="955" height="647" alt="Screenshot 2025-10-20 222750" src="https://github.com/user-attachments/assets/8707ed66-d18f-4149-b8e2-599377930558" />
+<img width="1080" height="1920" alt="macan_reader_v3" src="https://github.com/user-attachments/assets/309c3e73-9268-467e-ac48-54d242ba5d81" />
+
+
+---
+
+## 📝 Changelog v3.0.0
+
+Print Preview Added: The "Print" menu (Ctrl+P) now opens the Print Preview dialog first, where you can preview how the page will print before sending it to the printer.
+
+"Export As" Menu Added: Under the File menu, there is now an Export As submenu with two options:
+Export as PNG...: Exports all PDF pages as separate image files (e.g., document_page_001.png, document_page_002.png, etc.).
+Export as DOCX...: Exports all PDF pages as images embedded into a single .docx file. (Requires python-docx to be installed: pip install python-docx).
+Close Thumbnail Pane Button: The thumbnail pane on the left now has a mini title bar with the heading "Thumbnails" and an 'X' button to quickly close it.
+
+Thumbnail Context Menu: Right-clicking on any page thumbnail will now bring up a new context menu that allows you to export that specific page as:
+- PDF (creates a new PDF containing only that single page)
+- PNG
+- DOCX (creates a new DOCX containing only an image of that single page)
+Zoom Slider Icon Improved: The handles on the QSlider in the status bar now appear round in all themes, instead of flat squares.
+Help Content Menu Added: Under the Help menu, there is now a Help Content option (Shortcut: F1) that opens a pop-up window with a guide on how to use the application's main features.
 
 ---
 
