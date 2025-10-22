@@ -16,7 +16,7 @@ Export to: Png, Docx
 
 ## 📸 Screenshot
 <img width="958" height="644" alt="Screenshot 2025-10-22 175550" src="https://github.com/user-attachments/assets/900c33a8-0f10-4c39-9a8b-d4d20e396317" />
-<img width="1080" height="1257" alt="macan-reader-v330" src="https://github.com/user-attachments/assets/a857d916-c26b-47a2-bf47-76ecb67ec730" />
+
 
 
 
