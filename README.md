@@ -15,28 +15,20 @@ Export to: Png, Docx
 ---
 
 ## 📸 Screenshot
-<img width="955" height="650" alt="Screenshot 2025-10-20 222726" src="https://github.com/user-attachments/assets/f2a0ea7a-70f8-458f-a4e9-b2c4f60c0229" />
-<img width="955" height="647" alt="Screenshot 2025-10-20 222750" src="https://github.com/user-attachments/assets/8707ed66-d18f-4149-b8e2-599377930558" />
-<img width="1080" height="1920" alt="macan_reader_v3" src="https://github.com/user-attachments/assets/309c3e73-9268-467e-ac48-54d242ba5d81" />
+<img width="958" height="644" alt="Screenshot 2025-10-22 175550" src="https://github.com/user-attachments/assets/900c33a8-0f10-4c39-9a8b-d4d20e396317" />
+<img width="1080" height="1257" alt="macan-reader-v330" src="https://github.com/user-attachments/assets/a857d916-c26b-47a2-bf47-76ecb67ec730" />
+
 
 
 ---
 
-## 📝 Changelog v3.0.0
+## 📝 Changelog v3.3.0
 
-Print Preview Added: The "Print" menu (Ctrl+P) now opens the Print Preview dialog first, where you can preview how the page will print before sending it to the printer.
-
-"Export As" Menu Added: Under the File menu, there is now an Export As submenu with two options:
-Export as PNG...: Exports all PDF pages as separate image files (e.g., document_page_001.png, document_page_002.png, etc.).
-Export as DOCX...: Exports all PDF pages as images embedded into a single .docx file. (Requires python-docx to be installed: pip install python-docx).
-Close Thumbnail Pane Button: The thumbnail pane on the left now has a mini title bar with the heading "Thumbnails" and an 'X' button to quickly close it.
-
-Thumbnail Context Menu: Right-clicking on any page thumbnail will now bring up a new context menu that allows you to export that specific page as:
-- PDF (creates a new PDF containing only that single page)
-- PNG
-- DOCX (creates a new DOCX containing only an image of that single page)
-Zoom Slider Icon Improved: The handles on the QSlider in the status bar now appear round in all themes, instead of flat squares.
-Help Content Menu Added: Under the Help menu, there is now a Help Content option (Shortcut: F1) that opens a pop-up window with a guide on how to use the application's main features.
+- Added logic for handling password-protected PDFs
+- Added numbering to the Thumbnail Pane
+- Added a Jump Page function
+(to jump to the desired page)
+by entering the page number
 
 ---
 
