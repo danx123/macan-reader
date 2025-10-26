@@ -22,13 +22,10 @@ Export to: Png, Docx
 
 ---
 
-## 📝 Changelog v3.3.0
+## 📝 Changelog v3.4.0
 
-- Added logic for handling password-protected PDFs
-- Added numbering to the Thumbnail Pane
-- Added a Jump Page function
-(to jump to the desired page)
-by entering the page number
+- Improve Performance
+- Update Dependency pypdfium2
 
 ---
 
