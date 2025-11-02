@@ -15,17 +15,18 @@ Export to: Png, Docx
 ---
 
 ## 📸 Screenshot
-<img width="958" height="644" alt="Screenshot 2025-10-22 175550" src="https://github.com/user-attachments/assets/900c33a8-0f10-4c39-9a8b-d4d20e396317" />
-
-
-
+<img width="959" height="646" alt="Screenshot 2025-11-02 101257" src="https://github.com/user-attachments/assets/7f88a33e-762e-4350-a337-b7b10184739f" />
+<img width="956" height="644" alt="Screenshot 2025-11-02 101934" src="https://github.com/user-attachments/assets/629a4d47-bbe6-43bf-95b1-407d285247a7" />
 
 ---
 
-## 📝 Changelog v3.4.0
+## 📝 Changelog v4.0.0
 
-- Improve Performance
-- Update Dependency pypdfium2
+- Dynamic Multi-Tab: Can open multiple PDF files.
+- Status Bar Buttons: Navigation buttons (Prev/Next), Reset Zoom, and Fullscreen (F11) are located in the status bar.
+- Session Management: The application will remember which tabs were open when closed.
+- Added new menus to the Window menu: New Window and Fullscreen.
+- Added a new function to the help menu: Set as default .pdf.
 
 ---
 
