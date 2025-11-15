@@ -21,20 +21,9 @@ Export to: Png, Docx
 
 ---
 
-## 📝 Changelog v4.5.0
-
-✨ New Features
-Continuous View Mode: Users can now toggle between the default "Single Page" view and a new "Continuous" view (Ctrl+7). This mode renders all pages in a single vertical column, allowing for smooth scrolling through the entire document without clicking "Next" or "Previous."
-Toolbar Toggle: A new "Continuous View" icon has been added to the main toolbar to easily switch between view modes.
-🚀 Improvements & Fixes
-Virtual Page Rendering (Lazy Loading): To ensure high performance in Continuous View, only the pages currently visible (plus a small buffer) are rendered. Pages that scroll out of view are cleared from memory, keeping memory usage low even for large documents.
-FIXED: Lazy Loading Render Bug: Resolved a critical bug where the lazy loading mechanism would fail to render pages beyond the initial view (often stopping after 1-2 pages). All pages now correctly load as the user scrolls.
-Enhanced Tool Compatibility:
-Zoom: Zooming (Ctrl++/Ctrl+-, slider) now works perfectly in Continuous View, resizing all pages and recalculating the scroll layout on the fly.
-Pan Tool: The Pan tool (Hand icon) is fully functional across all pages in Continuous View.
-Search: Highlighting a search result (Ctrl+F) now correctly navigates to the corresponding page and scrolls it into view in both Single and Continuous modes.
-Go to Page: Jumping to a page (via Ctrl+G, thumbnails, or bookmarks) now instantly scrolls to the correct page's position in Continuous View.
-UI Smarts: The "Fit to Page" (Ctrl+9) action is now intelligently disabled in Continuous View, as it is only applicable to Single Page mode. "Fit to Width" (Ctrl+8) remains functional in both modes.
+## 📝 Changelog v4.7.0
+- Fixed Save Window State
+- Fixed Window Restore State
 
 ---
 
