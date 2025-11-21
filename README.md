@@ -21,9 +21,8 @@ Export to: Png, Docx
 
 ---
 
-## 📝 Changelog v4.7.0
-- Fixed Save Window State
-- Fixed Window Restore State
+## 📝 Changelog v5.0.0
+- Update Framework
 
 ---
 
