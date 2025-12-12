@@ -21,8 +21,8 @@ Export to: Png, Docx
 
 ---
 
-## 📝 Changelog v5.3.0
-- Added Check Update
+## 📝 Changelog v5.4.0
+- Update Engine (pypdfium2)
 
 ---
 
