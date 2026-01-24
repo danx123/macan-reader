@@ -21,11 +21,6 @@ Export to: Png, Docx
 
 ---
 
-## 📝 Changelog v5.5.0
-- Update Engine (pypdfium2)
-
----
-
 
 ## 🪄 Technologies Used
 Python 3.x
