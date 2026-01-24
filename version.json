@@ -1,8 +1,9 @@
 {
-  "latest_version": "5.5.0",
-  "release_date": "2026-01-06",
+  "latest_version": "5.7.0",
+  "release_date": "2026-01-24",
   "download_url": "https://github.com/danx123/macan-reader/releases",
-  "message": "Update Engine (pypdfium2)."
+  "message": "Optimized print preview."
 
 }
+
 
