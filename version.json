@@ -1,9 +1,10 @@
 {
-  "latest_version": "5.7.0",
-  "release_date": "2026-01-24",
+  "latest_version": "6.7.0",
+  "release_date": "2026-02-03",
   "download_url": "https://github.com/danx123/macan-reader/releases",
-  "message": "Optimized print preview."
+  "message": "Update Framework."
 
 }
+
 
 
