@@ -15,8 +15,7 @@ Export to: Png, Docx
 ---
 
 ## 📸 Screenshot
-<img width="959" height="644" alt="Screenshot 2025-11-12 055907" src="https://github.com/user-attachments/assets/eb6376f6-691a-4a35-a843-465ba6b3b034" />
-<img width="956" height="646" alt="Screenshot 2025-11-12 055724" src="https://github.com/user-attachments/assets/42650cb0-5336-46f3-9d88-0f4a3e502f92" />
+<img width="1070" height="723" alt="Screenshot 2026-03-03 202439" src="https://github.com/user-attachments/assets/8ad1dce0-2786-4375-a574-a716795c450f" />
 
 
 ---
