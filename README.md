@@ -1,8 +1,8 @@
-## 📖 Macan Reader is a fast, efficient, and feature-rich PDF document reader built using Python, the modern GUI library PySide6, and powered by the PyPDFium2 PDF rendering engine. It is designed to provide a seamless PDF reading experience with a focus on performance and a customizable user interface.
+## 📖 Macan Reader is a fast, efficient, and feature-rich PDF document reader built using Python, the modern GUI library PySide6, and powered by the QtPdf rendering engine. It is designed to provide a seamless PDF reading experience with a focus on performance and a customizable user interface.
 ---
 
 ## ✨ Key Features
-Fast & Efficient Rendering: Uses PyPDFium2 (based on Google PDFium) for fast and reliable PDF rendering.
+Fast & Efficient Rendering: Uses QtPdf for fast and reliable PDF rendering.
 Theme Support (QSS): Five selectable visual themes (Light, Dark, Dark Blue, Neon Blue, Soft Pink) to customize the app's appearance, with dynamic icon color updates.
 Pan Mode: A dedicated Pan tool that allows users to drag PDF pages with the mouse within the viewing area.
 Page Thumbnails: A panel of thumbnails that can be hidden for quick page navigation.
@@ -26,7 +26,7 @@ Export to: Png, Docx
 ## 🪄 Technologies Used
 Python 3.x
 PySide6: Python binding library for Qt6, used for the graphical user interface.
-PyPDFium2: Python wrapper for the PDFium rendering library, used for processing PDF documents.
+
 
 ---
 
