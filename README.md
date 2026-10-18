@@ -1,7 +1,7 @@
 ## 📖 Macan Reader 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Total Downloads](https://img.shields.io/github/downloads/danx123/macan-reader/total?style=flat-square&color=E8FF00&label=downloads)
+
 
 
 is a fast, efficient, and feature-rich PDF document reader built using Python, the modern GUI library PySide6, and powered by the QtPdf rendering engine. It is designed to provide a seamless PDF reading experience with a focus on performance and a customizable user interface.
